@@ -1,0 +1,117 @@
+body {
+	font-family: Verdana;
+	background-color: #E5E5E5;
+}
+
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+div#ontop {
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	background: #333333;
+	border-bottom: 2px solid #000000;
+	top: 0;
+	left: 0;
+}
+
+div#ontop h1 {
+	font-family: Verdana;
+	color: #D4D4D4;
+	text-shadow: -1px 0 #000000, 0 1px #000000, 1px 0 #000000, 0 -1px #000000;
+	text-align: center;
+	margin-top: 5;
+}
+
+div#onbottom {
+	clear: both;
+	position: relative;
+	width: 100%;
+	height: 50px;
+	padding-top: 20px;
+	left: 0;
+}
+
+div#onbottom p {
+	font-family: Verdana;
+	text-align: center;
+	font-size: small;
+	margin-top: 5;
+}
+
+div#content {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	width: 1176px;
+}
+
+.col0 {
+	float:left;
+	position:relative;
+	width: 280px;
+	height: 280px;
+	margin: 5px;
+	border: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+.col1 {
+	float:left;
+	position:relative;
+	width: 280px;
+	height: 280px;
+	margin: 5px;
+	border: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+.col2 {
+	float:left;
+	position:relative;
+	width: 280px;
+	height: 280px;
+	margin: 5px;
+	border: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+.col3 {
+	float:left;
+	position:relative;
+	width: 280px;
+	height: 280px;
+	margin: 5px;
+	border: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+.desc span {
+	position: absolute;
+	top: 237px;
+	padding-left: 5px;
+	width: 275px;
+	color: white;
+	font: 24px/45px Veradana, Sans-Serif;
+	background: rgb(0, 0, 0); /* fallback color */
+	background: rgba(0, 0, 0, 0.5);
+}
+
+div.photo {
+	text-align: center;
+}
+
+div.photo img {
+	border: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+div.meta {
+	margin-top: 10px;
+	text-align: center;
+	font-size: 14px;
+}
+
