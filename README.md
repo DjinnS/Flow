@@ -1,3 +1,6 @@
+Flow
+==================================================
+
 Flow is a simple, fast and light PHP Gallery
 
 Works still in progress, but, it's usable !
